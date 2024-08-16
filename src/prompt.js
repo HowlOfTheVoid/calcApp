@@ -9,6 +9,8 @@
  * @copyright Copyright © 2024 -_ by Ethan Graupmann. All rights reserved.
  */
 
+//Internal Imports
+
 //External Imports
 let fs = require('fs');
 let path = require('path');
@@ -22,7 +24,7 @@ let term = 13; // Carriage return
  * @function prompt
  * @description Prompts the user for some input, then returns the input provided.
  * @param {string} ask What the display should say, when asking the user for input.
- * @return {string} A string of whatever the user gave in response.
+ * @returns {string} A string of whatever the user gave in response.
  * @author Ethan Graupmann
  * @date 8/16/2024
  */
