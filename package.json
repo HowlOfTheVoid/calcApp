@@ -1,0 +1,23 @@
+{
+  "name": "calcapp",
+  "version": "0.0.1",
+  "description": "Simple CLI Calculator Application. A bit of an experiment with JavaScript and CLI.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/HowlOfTheVoid/calcApp"
+  },
+  "keywords": [
+    "CLI",
+    "application",
+    "calculator",
+    "nodeJS",
+    "Calculator"
+  ],
+  "author": "Ethan Graupmann",
+  "license": "MIT"
+}
